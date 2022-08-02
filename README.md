@@ -2,7 +2,11 @@
 
 ###
 
-<p align="center">Site de uma livraria com um e-commerce e um sistema financeiro para controle de estoque, fluxo de caixa e saldo e outros relatórios de passivos e ativos.</p>
+<h3 align="center">Site de uma livraria com um e-commerce e um sistema financeiro para controle de estoque, fluxo de caixa e saldo e outros relatórios de passivos e ativos.</h3>
+
+###
+
+<p align="center">Sistema desenvolvido para o projeto integrador, um método de avaliação da faculdade, esse projeto aborda vários conceitos estudados durante o período de referência com a finalidade de entregar ao final do período um sistema funcional contendo todos os conceitos estudados.<p>
 
 ###
 
