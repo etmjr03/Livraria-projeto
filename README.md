@@ -10,6 +10,10 @@
 
 ###
 
+<p align="center">Participação de: João Eduardo e Ronaldo.<p>
+
+###
+
 <p align="left">Linguagens utilizada: Java</p>
 
 ###
